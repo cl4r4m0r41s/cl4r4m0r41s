@@ -1,16 +1,12 @@
-### Hi there 👋
+Bem vindo(a) ao meu perfil. :bowtie:
 
-<!--
-**cl4r4m0r41s/cl4r4m0r41s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Me chamo Maria Clara de Morais, tenho 22 anos, e estou cursando Sistemas de Informação, com foco em Segurança da Informação.
+  
+Evoluindo:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  •Front-end: HTML, CSS, JavaScript, React, Vue.js.
+  •Back-end: Node.js; PgAdmin, MySQL, PostgreSQL.
+  •Linguagens: Java, Python, Ruby.
+  •Versionamento: Git.
+  •Engenharia de Software: Levantamento de requisitos, Scrum, Kanban.
+  •SO: Ubuntu 20.04, Windows 10.
