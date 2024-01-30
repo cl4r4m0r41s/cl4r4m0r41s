@@ -5,8 +5,7 @@ Bem vindo(a) ao meu perfil. :bowtie:
 Evoluindo:
 
   •Front-end: HTML, CSS, JavaScript, React, Vue.js.
-  •Back-end: Node.js; PgAdmin, MySQL, PostgreSQL.
-  •Linguagens: Java, Python, Ruby.
+  •Linguagens: Python, Golang.
   •Versionamento: Git.
   •Engenharia de Software: Levantamento de requisitos, Scrum, Kanban.
-  •SO: Ubuntu 20.04, Windows 10.
+  •SO: Linux, Windows.
