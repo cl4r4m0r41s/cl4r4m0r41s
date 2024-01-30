@@ -1,6 +1,6 @@
 Bem vindo(a) ao meu perfil. :bowtie:
 
-  Me chamo Maria Clara de Morais, tenho 22 anos, e estou cursando Sistemas de Informação, com foco em Segurança da Informação.
+  Me chamo Maria Clara de Morais, tenho 25 anos, me graduei em Sistemas de Informação e agora estudo com foco em Segurança da Informação.
   
 Evoluindo:
 
